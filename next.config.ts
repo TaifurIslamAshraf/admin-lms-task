@@ -6,6 +6,9 @@ const nextConfig: NextConfig = {
     remotePatterns:[
       {
         hostname: "localhost"
+      },
+       {
+        hostname: "taifur.fablura.com"
       }
     ]
   }
